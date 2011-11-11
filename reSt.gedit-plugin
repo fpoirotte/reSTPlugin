@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=reStPlugin
+IAge=2
+Name=reStructuredText plugin
+Description=A reStructuredText plugin
+Authors=Christophe Kibleur <kib2@free.fr>
+Copyright=Copyright © 2008 Christophe Kibleur <kib2@free.fr>
+Website=http://kib2.free.fr/Articles/index.html
